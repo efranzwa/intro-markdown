@@ -33,3 +33,10 @@ while (( "$#" )); do
   esac
 done
 ```
+
+#### task list
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Next steps ...
