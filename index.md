@@ -4,3 +4,4 @@
 #### Content for an H4 Header
 ##### Content for an H5 Header
 ###### Content for an H6 Header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
